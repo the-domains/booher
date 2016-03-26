@@ -4,14 +4,14 @@
         <description><![CDATA[BOOHER ||| Rock N Roll Music |||  Austin, Texas]]></description>
         <link>https://thegrid.ai/booher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 20:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 20:44:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/booher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Pick Up The Robot, Digital single by BOOHER]]></title>
-            <description><![CDATA[<article><h1>Pick Up The Robot, Digital single by BOOHER</h1><p>Pick Up The Robot (Put The Robot Down) by BOOHER, released 08 March 2016 1. Pick Up The Robot (Put The Robot Down) [feat. Will Sheff] 2. I Doubt The End Is Near</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7290320a69f39e5124cc473e0c8c3b176709184c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/booher/pick-up-the-robot-digital-single-by-booher/index.html</link>
-            <guid isPermaLink="false">d1283947-a837-4898-bcb2-cebb68586104</guid>
-            <pubDate>Sat, 26 Mar 2016 20:41:21 GMT</pubDate>
+            <title><![CDATA[BOOHER]]></title>
+            <description><![CDATA[<article><h1>BOOHER</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c95fbaf44f8a309e305629d689db63ba5c1604b.jpg"></article>]]></description>
+            <link>https://booher.bandcamp.com/releases</link>
+            <guid isPermaLink="false">23f4c7f4-b57d-4525-b963-17d631855f85</guid>
+            <pubDate>Sat, 26 Mar 2016 20:44:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Digital Single Out Now]]></title>
@@ -33,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=R2aG1PUgEBk</link>
             <guid isPermaLink="false">cdcaf5b1-a10c-4c67-97e3-7988f74d5050</guid>
             <pubDate>Sat, 26 Mar 2016 19:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BOOHER]]></title>
-            <description><![CDATA[<article><h1>BOOHER</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c95fbaf44f8a309e305629d689db63ba5c1604b.jpg"></article>]]></description>
-            <link>https://booher.bandcamp.com/releases</link>
-            <guid isPermaLink="false">23f4c7f4-b57d-4525-b963-17d631855f85</guid>
-            <pubDate>Sat, 26 Mar 2016 19:20:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
