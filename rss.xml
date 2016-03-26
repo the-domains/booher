@@ -4,7 +4,7 @@
         <description><![CDATA[BOOHER ||| Rock N Roll Music From Austin, Texas]]></description>
         <link>https://thegrid.ai/booher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 20:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 20:01:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/booher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/booher/music/index.html</link>
             <guid isPermaLink="false">34c581f3-7e25-4f64-bd7c-123d090c45ee</guid>
             <pubDate>Sat, 26 Mar 2016 19:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Booking: tim@ninemilerecords.com</p>]]></description>
-            <link>https://thegrid.ai/booher/72a385fd-9ea6-4e60-989a-e0c94d1b9ed3/index.html</link>
-            <guid isPermaLink="false">72a385fd-9ea6-4e60-989a-e0c94d1b9ed3</guid>
-            <pubDate>Sat, 26 Mar 2016 19:15:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
