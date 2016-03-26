@@ -16,12 +16,12 @@ keywords:
   - zykos
   - booher
 description: 'Pick Up The Robot (Put The Robot Down) [feat. Will Sheff] by BOOHER, released 08 March 2016'
-datePublished: '2016-03-26T19:26:53.582Z'
-dateModified: '2016-03-26T19:18:49.858Z'
+datePublished: '2016-03-26T19:34:24.840Z'
+dateModified: '2016-03-26T19:30:33.126Z'
 author: []
 related: []
 app_links: []
-title: Music
+title: Listen
 sourcePath: _posts/2016-03-26-pick-up-the-robot-put-the-robot-down-feat-will-sheff-b.md
 published: true
 authors: []
