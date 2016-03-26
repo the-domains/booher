@@ -1,7 +1,7 @@
 name: BOOHER
 favicon: null
-layout_spectrum: 0.02678993996232748
-typography_spectrum: 0.9536645747721195
+layout_spectrum: 0.32377
+typography_spectrum: 0.5484
 title: 'Rock N Roll Music From Austin, Texas'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.4801691141910851
-  lightness: 0.611609665909782
-  saturation: 0.330286089098081
-  rhythmicContrast: 0.053371446672827005
+    - '#ffffff'
+    - '#b7d7dd'
+    - '#3a4734'
+    - '#e4282e'
+    - '#537f45'
+  brandStrength: 0.625
+  lightness: 0.625
+  saturation: 0.4375
+  rhythmicContrast: 0
 purpose: []
