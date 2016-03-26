@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Testing a business site using TheGrid.io
-datePublished: '2016-03-26T19:12:31.026Z'
-dateModified: '2016-03-26T19:12:25.755Z'
-title: Artificial Vs Intelligent
+description: ''
+datePublished: '2016-03-26T19:13:14.567Z'
+dateModified: '2016-03-26T19:13:04.991Z'
+title: ''
 sourcePath: _posts/2015-11-10-artificial-vs-intelligent.md
 published: true
 author: []
