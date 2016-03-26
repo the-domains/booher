@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://bandcamp.com'
-  name: BandCamp
-  favicon: 'https://f1.bcbits.com/img/a0670356759_3.jpg'
-  domain: booher.bandcamp.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - austin
   - indie
@@ -18,17 +16,21 @@ keywords:
   - zykos
   - booher
 description: 'Pick Up The Robot (Put The Robot Down) [feat. Will Sheff] by BOOHER, released 08 March 2016'
-inLanguage: en
+datePublished: '2016-03-26T19:26:53.582Z'
+dateModified: '2016-03-26T19:18:49.858Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://booher.bandcamp.com/track/pick-up-the-robot-put-the-robot-down-feat-will-sheff'
-title: 'Pick Up The Robot (Put The Robot Down) [feat. Will Sheff], by BOOHER'
-datePublished: '2016-03-26T19:18:03.469Z'
-dateModified: '2016-03-26T19:17:34.787Z'
+title: Music
 sourcePath: _posts/2016-03-26-pick-up-the-robot-put-the-robot-down-feat-will-sheff-b.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: BandCamp
+  domain: booher.bandcamp.com
+  url: 'http://bandcamp.com'
+  favicon: 'https://f1.bcbits.com/img/a0670356759_3.jpg'
+url: music/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
